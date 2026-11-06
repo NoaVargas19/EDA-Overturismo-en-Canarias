@@ -1,0 +1,652 @@
+fecha,isla,viviendas
+2019-01-01,El Hierro,270
+2019-02-01,El Hierro,283
+2019-03-01,El Hierro,284
+2019-04-01,El Hierro,311
+2019-05-01,El Hierro,318
+2019-06-01,El Hierro,283
+2019-07-01,El Hierro,329
+2019-08-01,El Hierro,340
+2019-09-01,El Hierro,354
+2019-10-01,El Hierro,338
+2019-11-01,El Hierro,317
+2019-12-01,El Hierro,324
+2020-01-01,El Hierro,355
+2020-02-01,El Hierro,345
+2020-03-01,El Hierro,327
+2020-04-01,El Hierro,292
+2020-05-01,El Hierro,234
+2020-06-01,El Hierro,241
+2020-07-01,El Hierro,304
+2020-08-01,El Hierro,326
+2020-09-01,El Hierro,333
+2020-10-01,El Hierro,341
+2020-11-01,El Hierro,332
+2020-12-01,El Hierro,312
+2021-01-01,El Hierro,295
+2021-02-01,El Hierro,263
+2021-03-01,El Hierro,295
+2021-04-01,El Hierro,287
+2021-05-01,El Hierro,290
+2021-06-01,El Hierro,305
+2021-07-01,El Hierro,323
+2021-08-01,El Hierro,330
+2021-09-01,El Hierro,359
+2021-10-01,El Hierro,359
+2021-11-01,El Hierro,352
+2021-12-01,El Hierro,354
+2022-01-01,El Hierro,364
+2022-02-01,El Hierro,361
+2022-03-01,El Hierro,363
+2022-04-01,El Hierro,388
+2022-05-01,El Hierro,397
+2022-06-01,El Hierro,381
+2022-07-01,El Hierro,445
+2022-08-01,El Hierro,444
+2022-09-01,El Hierro,454
+2022-10-01,El Hierro,431
+2022-11-01,El Hierro,420
+2022-12-01,El Hierro,414
+2023-01-01,El Hierro,406
+2023-02-01,El Hierro,413
+2023-03-01,El Hierro,441
+2023-04-01,El Hierro,441
+2023-05-01,El Hierro,453
+2023-06-01,El Hierro,429
+2023-07-01,El Hierro,437
+2023-08-01,El Hierro,446
+2023-09-01,El Hierro,463
+2023-10-01,El Hierro,469
+2023-11-01,El Hierro,448
+2023-12-01,El Hierro,456
+2024-01-01,El Hierro,450
+2024-02-01,El Hierro,458
+2024-03-01,El Hierro,484
+2024-04-01,El Hierro,489
+2024-05-01,El Hierro,461
+2024-06-01,El Hierro,462
+2024-07-01,El Hierro,492
+2024-08-01,El Hierro,489
+2024-09-01,El Hierro,496
+2024-10-01,El Hierro,505
+2024-11-01,El Hierro,500
+2024-12-01,El Hierro,504
+2025-01-01,El Hierro,489
+2025-02-01,El Hierro,475
+2025-03-01,El Hierro,466
+2025-04-01,El Hierro,496
+2025-05-01,El Hierro,498
+2025-06-01,El Hierro,498
+2025-07-01,El Hierro,527
+2025-08-01,El Hierro,522
+2025-09-01,El Hierro,513
+2025-10-01,El Hierro,489
+2025-11-01,El Hierro,427
+2025-12-01,El Hierro,421
+2026-01-01,El Hierro,414
+2026-02-01,El Hierro,411
+2026-03-01,El Hierro,406
+2026-04-01,El Hierro,400
+2026-05-01,El Hierro,504
+2026-06-01,El Hierro,501
+2026-07-01,El Hierro,492
+2026-08-01,El Hierro,526
+2026-09-01,El Hierro,550
+2019-01-01,Fuerteventura,4549
+2019-02-01,Fuerteventura,4335
+2019-03-01,Fuerteventura,4395
+2019-04-01,Fuerteventura,4606
+2019-05-01,Fuerteventura,4385
+2019-06-01,Fuerteventura,4182
+2019-07-01,Fuerteventura,4868
+2019-08-01,Fuerteventura,5188
+2019-09-01,Fuerteventura,5254
+2019-10-01,Fuerteventura,4980
+2019-11-01,Fuerteventura,4679
+2019-12-01,Fuerteventura,4840
+2020-01-01,Fuerteventura,4714
+2020-02-01,Fuerteventura,4491
+2020-03-01,Fuerteventura,4396
+2020-04-01,Fuerteventura,4050
+2020-05-01,Fuerteventura,3031
+2020-06-01,Fuerteventura,3001
+2020-07-01,Fuerteventura,3933
+2020-08-01,Fuerteventura,4313
+2020-09-01,Fuerteventura,4243
+2020-10-01,Fuerteventura,4022
+2020-11-01,Fuerteventura,3862
+2020-12-01,Fuerteventura,3980
+2021-01-01,Fuerteventura,3865
+2021-02-01,Fuerteventura,3609
+2021-03-01,Fuerteventura,3629
+2021-04-01,Fuerteventura,3815
+2021-05-01,Fuerteventura,4043
+2021-06-01,Fuerteventura,4067
+2021-07-01,Fuerteventura,4511
+2021-08-01,Fuerteventura,4840
+2021-09-01,Fuerteventura,4979
+2021-10-01,Fuerteventura,4933
+2021-11-01,Fuerteventura,4884
+2021-12-01,Fuerteventura,5094
+2022-01-01,Fuerteventura,5066
+2022-02-01,Fuerteventura,4807
+2022-03-01,Fuerteventura,5020
+2022-04-01,Fuerteventura,5250
+2022-05-01,Fuerteventura,5314
+2022-06-01,Fuerteventura,5228
+2022-07-01,Fuerteventura,5703
+2022-08-01,Fuerteventura,5855
+2022-09-01,Fuerteventura,5942
+2022-10-01,Fuerteventura,5722
+2022-11-01,Fuerteventura,5493
+2022-12-01,Fuerteventura,5751
+2023-01-01,Fuerteventura,5531
+2023-02-01,Fuerteventura,5129
+2023-03-01,Fuerteventura,5487
+2023-04-01,Fuerteventura,5735
+2023-05-01,Fuerteventura,5760
+2023-06-01,Fuerteventura,5594
+2023-07-01,Fuerteventura,5804
+2023-08-01,Fuerteventura,6014
+2023-09-01,Fuerteventura,6098
+2023-10-01,Fuerteventura,6043
+2023-11-01,Fuerteventura,5958
+2023-12-01,Fuerteventura,6201
+2024-01-01,Fuerteventura,5880
+2024-02-01,Fuerteventura,5668
+2024-03-01,Fuerteventura,6157
+2024-04-01,Fuerteventura,6253
+2024-05-01,Fuerteventura,6054
+2024-06-01,Fuerteventura,6158
+2024-07-01,Fuerteventura,6445
+2024-08-01,Fuerteventura,6589
+2024-09-01,Fuerteventura,6749
+2024-10-01,Fuerteventura,6629
+2024-11-01,Fuerteventura,6427
+2024-12-01,Fuerteventura,6615
+2025-01-01,Fuerteventura,6290
+2025-02-01,Fuerteventura,5892
+2025-03-01,Fuerteventura,6409
+2025-04-01,Fuerteventura,6722
+2025-05-01,Fuerteventura,6617
+2025-06-01,Fuerteventura,6423
+2025-07-01,Fuerteventura,6631
+2025-08-01,Fuerteventura,6684
+2025-09-01,Fuerteventura,6728
+2025-10-01,Fuerteventura,6514
+2025-11-01,Fuerteventura,6268
+2025-12-01,Fuerteventura,6458
+2026-01-01,Fuerteventura,6174
+2026-02-01,Fuerteventura,5830
+2026-03-01,Fuerteventura,5884
+2026-04-01,Fuerteventura,5795
+2026-05-01,Fuerteventura,6025
+2026-06-01,Fuerteventura,5947
+2026-07-01,Fuerteventura,6143
+2026-08-01,Fuerteventura,6678
+2026-09-01,Fuerteventura,6672
+2019-01-01,Gran Canaria,8650
+2019-02-01,Gran Canaria,8322
+2019-03-01,Gran Canaria,8600
+2019-04-01,Gran Canaria,8679
+2019-05-01,Gran Canaria,8072
+2019-06-01,Gran Canaria,7375
+2019-07-01,Gran Canaria,8059
+2019-08-01,Gran Canaria,8585
+2019-09-01,Gran Canaria,8804
+2019-10-01,Gran Canaria,8599
+2019-11-01,Gran Canaria,8610
+2019-12-01,Gran Canaria,9274
+2020-01-01,Gran Canaria,9143
+2020-02-01,Gran Canaria,8553
+2020-03-01,Gran Canaria,8472
+2020-04-01,Gran Canaria,7515
+2020-05-01,Gran Canaria,5602
+2020-06-01,Gran Canaria,5356
+2020-07-01,Gran Canaria,5991
+2020-08-01,Gran Canaria,6293
+2020-09-01,Gran Canaria,6099
+2020-10-01,Gran Canaria,6340
+2020-11-01,Gran Canaria,6353
+2020-12-01,Gran Canaria,6622
+2021-01-01,Gran Canaria,6500
+2021-02-01,Gran Canaria,5778
+2021-03-01,Gran Canaria,5813
+2021-04-01,Gran Canaria,5901
+2021-05-01,Gran Canaria,5969
+2021-06-01,Gran Canaria,5720
+2021-07-01,Gran Canaria,6160
+2021-08-01,Gran Canaria,6564
+2021-09-01,Gran Canaria,6817
+2021-10-01,Gran Canaria,6896
+2021-11-01,Gran Canaria,7408
+2021-12-01,Gran Canaria,7824
+2022-01-01,Gran Canaria,7922
+2022-02-01,Gran Canaria,7416
+2022-03-01,Gran Canaria,7844
+2022-04-01,Gran Canaria,8256
+2022-05-01,Gran Canaria,8204
+2022-06-01,Gran Canaria,7704
+2022-07-01,Gran Canaria,8119
+2022-08-01,Gran Canaria,8093
+2022-09-01,Gran Canaria,8386
+2022-10-01,Gran Canaria,8470
+2022-11-01,Gran Canaria,8562
+2022-12-01,Gran Canaria,8964
+2023-01-01,Gran Canaria,8653
+2023-02-01,Gran Canaria,7872
+2023-03-01,Gran Canaria,8662
+2023-04-01,Gran Canaria,9179
+2023-05-01,Gran Canaria,8893
+2023-06-01,Gran Canaria,8422
+2023-07-01,Gran Canaria,8405
+2023-08-01,Gran Canaria,8445
+2023-09-01,Gran Canaria,8881
+2023-10-01,Gran Canaria,9264
+2023-11-01,Gran Canaria,9426
+2023-12-01,Gran Canaria,10029
+2024-01-01,Gran Canaria,9559
+2024-02-01,Gran Canaria,9070
+2024-03-01,Gran Canaria,10076
+2024-04-01,Gran Canaria,10353
+2024-05-01,Gran Canaria,9536
+2024-06-01,Gran Canaria,9362
+2024-07-01,Gran Canaria,9478
+2024-08-01,Gran Canaria,9370
+2024-09-01,Gran Canaria,9639
+2024-10-01,Gran Canaria,10187
+2024-11-01,Gran Canaria,10428
+2024-12-01,Gran Canaria,11056
+2025-01-01,Gran Canaria,10555
+2025-02-01,Gran Canaria,9669
+2025-03-01,Gran Canaria,10519
+2025-04-01,Gran Canaria,10880
+2025-05-01,Gran Canaria,10285
+2025-06-01,Gran Canaria,9519
+2025-07-01,Gran Canaria,9647
+2025-08-01,Gran Canaria,9723
+2025-09-01,Gran Canaria,10075
+2025-10-01,Gran Canaria,10058
+2025-11-01,Gran Canaria,10159
+2025-12-01,Gran Canaria,10638
+2026-01-01,Gran Canaria,10220
+2026-02-01,Gran Canaria,9533
+2026-03-01,Gran Canaria,9594
+2026-04-01,Gran Canaria,9452
+2026-05-01,Gran Canaria,9399
+2026-06-01,Gran Canaria,8742
+2026-07-01,Gran Canaria,8482
+2026-08-01,Gran Canaria,9480
+2026-09-01,Gran Canaria,9643
+2019-01-01,La Gomera,741
+2019-02-01,La Gomera,741
+2019-03-01,La Gomera,784
+2019-04-01,La Gomera,803
+2019-05-01,La Gomera,757
+2019-06-01,La Gomera,621
+2019-07-01,La Gomera,692
+2019-08-01,La Gomera,774
+2019-09-01,La Gomera,836
+2019-10-01,La Gomera,814
+2019-11-01,La Gomera,811
+2019-12-01,La Gomera,907
+2020-01-01,La Gomera,877
+2020-02-01,La Gomera,867
+2020-03-01,La Gomera,872
+2020-04-01,La Gomera,776
+2020-05-01,La Gomera,527
+2020-06-01,La Gomera,492
+2020-07-01,La Gomera,666
+2020-08-01,La Gomera,723
+2020-09-01,La Gomera,740
+2020-10-01,La Gomera,752
+2020-11-01,La Gomera,714
+2020-12-01,La Gomera,747
+2021-01-01,La Gomera,737
+2021-02-01,La Gomera,687
+2021-03-01,La Gomera,716
+2021-04-01,La Gomera,717
+2021-05-01,La Gomera,687
+2021-06-01,La Gomera,650
+2021-07-01,La Gomera,727
+2021-08-01,La Gomera,779
+2021-09-01,La Gomera,797
+2021-10-01,La Gomera,762
+2021-11-01,La Gomera,778
+2021-12-01,La Gomera,810
+2022-01-01,La Gomera,793
+2022-02-01,La Gomera,761
+2022-03-01,La Gomera,798
+2022-04-01,La Gomera,813
+2022-05-01,La Gomera,778
+2022-06-01,La Gomera,701
+2022-07-01,La Gomera,732
+2022-08-01,La Gomera,776
+2022-09-01,La Gomera,816
+2022-10-01,La Gomera,793
+2022-11-01,La Gomera,790
+2022-12-01,La Gomera,797
+2023-01-01,La Gomera,750
+2023-02-01,La Gomera,728
+2023-03-01,La Gomera,797
+2023-04-01,La Gomera,840
+2023-05-01,La Gomera,830
+2023-06-01,La Gomera,760
+2023-07-01,La Gomera,759
+2023-08-01,La Gomera,767
+2023-09-01,La Gomera,816
+2023-10-01,La Gomera,823
+2023-11-01,La Gomera,854
+2023-12-01,La Gomera,854
+2024-01-01,La Gomera,783
+2024-02-01,La Gomera,769
+2024-03-01,La Gomera,863
+2024-04-01,La Gomera,898
+2024-05-01,La Gomera,824
+2024-06-01,La Gomera,800
+2024-07-01,La Gomera,782
+2024-08-01,La Gomera,810
+2024-09-01,La Gomera,852
+2024-10-01,La Gomera,859
+2024-11-01,La Gomera,891
+2024-12-01,La Gomera,925
+2025-01-01,La Gomera,837
+2025-02-01,La Gomera,794
+2025-03-01,La Gomera,897
+2025-04-01,La Gomera,936
+2025-05-01,La Gomera,880
+2025-06-01,La Gomera,765
+2025-07-01,La Gomera,809
+2025-08-01,La Gomera,844
+2025-09-01,La Gomera,873
+2025-10-01,La Gomera,801
+2025-11-01,La Gomera,867
+2025-12-01,La Gomera,888
+2026-01-01,La Gomera,855
+2026-02-01,La Gomera,820
+2026-03-01,La Gomera,846
+2026-04-01,La Gomera,805
+2026-05-01,La Gomera,840
+2026-06-01,La Gomera,775
+2026-07-01,La Gomera,751
+2026-08-01,La Gomera,847
+2026-09-01,La Gomera,888
+2019-01-01,La Palma,1486
+2019-02-01,La Palma,1531
+2019-03-01,La Palma,1683
+2019-04-01,La Palma,1686
+2019-05-01,La Palma,1552
+2019-06-01,La Palma,1497
+2019-07-01,La Palma,1632
+2019-08-01,La Palma,1741
+2019-09-01,La Palma,1782
+2019-10-01,La Palma,1707
+2019-11-01,La Palma,1702
+2019-12-01,La Palma,1776
+2020-01-01,La Palma,1761
+2020-02-01,La Palma,1843
+2020-03-01,La Palma,1850
+2020-04-01,La Palma,1582
+2020-05-01,La Palma,1225
+2020-06-01,La Palma,1208
+2020-07-01,La Palma,1566
+2020-08-01,La Palma,1615
+2020-09-01,La Palma,1555
+2020-10-01,La Palma,1525
+2020-11-01,La Palma,1472
+2020-12-01,La Palma,1497
+2021-01-01,La Palma,1469
+2021-02-01,La Palma,1452
+2021-03-01,La Palma,1455
+2021-04-01,La Palma,1375
+2021-05-01,La Palma,1427
+2021-06-01,La Palma,1477
+2021-07-01,La Palma,1597
+2021-08-01,La Palma,1727
+2021-09-01,La Palma,1874
+2021-10-01,La Palma,1768
+2021-11-01,La Palma,1643
+2021-12-01,La Palma,1615
+2022-01-01,La Palma,1618
+2022-02-01,La Palma,1600
+2022-03-01,La Palma,1608
+2022-04-01,La Palma,1619
+2022-05-01,La Palma,1611
+2022-06-01,La Palma,1516
+2022-07-01,La Palma,1636
+2022-08-01,La Palma,1606
+2022-09-01,La Palma,1626
+2022-10-01,La Palma,1607
+2022-11-01,La Palma,1580
+2022-12-01,La Palma,1565
+2023-01-01,La Palma,1527
+2023-02-01,La Palma,1552
+2023-03-01,La Palma,1597
+2023-04-01,La Palma,1656
+2023-05-01,La Palma,1660
+2023-06-01,La Palma,1580
+2023-07-01,La Palma,1627
+2023-08-01,La Palma,1638
+2023-09-01,La Palma,1639
+2023-10-01,La Palma,1735
+2023-11-01,La Palma,1826
+2023-12-01,La Palma,1868
+2024-01-01,La Palma,1772
+2024-02-01,La Palma,1851
+2024-03-01,La Palma,1942
+2024-04-01,La Palma,1999
+2024-05-01,La Palma,1972
+2024-06-01,La Palma,1962
+2024-07-01,La Palma,1967
+2024-08-01,La Palma,1987
+2024-09-01,La Palma,2065
+2024-10-01,La Palma,2021
+2024-11-01,La Palma,2126
+2024-12-01,La Palma,2203
+2025-01-01,La Palma,2084
+2025-02-01,La Palma,2042
+2025-03-01,La Palma,2255
+2025-04-01,La Palma,2302
+2025-05-01,La Palma,2150
+2025-06-01,La Palma,1981
+2025-07-01,La Palma,2169
+2025-08-01,La Palma,2146
+2025-09-01,La Palma,2068
+2025-10-01,La Palma,1921
+2025-11-01,La Palma,1908
+2025-12-01,La Palma,1997
+2026-01-01,La Palma,1938
+2026-02-01,La Palma,1939
+2026-03-01,La Palma,1945
+2026-04-01,La Palma,1802
+2026-05-01,La Palma,1906
+2026-06-01,La Palma,1790
+2026-07-01,La Palma,1818
+2026-08-01,La Palma,1973
+2026-09-01,La Palma,2020
+2019-01-01,Lanzarote,6216
+2019-02-01,Lanzarote,5747
+2019-03-01,Lanzarote,6532
+2019-04-01,Lanzarote,7217
+2019-05-01,Lanzarote,6878
+2019-06-01,Lanzarote,6596
+2019-07-01,Lanzarote,7249
+2019-08-01,Lanzarote,7641
+2019-09-01,Lanzarote,8015
+2019-10-01,Lanzarote,7590
+2019-11-01,Lanzarote,7155
+2019-12-01,Lanzarote,7403
+2020-01-01,Lanzarote,7188
+2020-02-01,Lanzarote,6787
+2020-03-01,Lanzarote,6660
+2020-04-01,Lanzarote,6129
+2020-05-01,Lanzarote,4649
+2020-06-01,Lanzarote,4190
+2020-07-01,Lanzarote,5146
+2020-08-01,Lanzarote,5474
+2020-09-01,Lanzarote,5353
+2020-10-01,Lanzarote,5421
+2020-11-01,Lanzarote,5064
+2020-12-01,Lanzarote,5343
+2021-01-01,Lanzarote,5178
+2021-02-01,Lanzarote,4492
+2021-03-01,Lanzarote,4093
+2021-04-01,Lanzarote,4266
+2021-05-01,Lanzarote,4492
+2021-06-01,Lanzarote,4741
+2021-07-01,Lanzarote,5533
+2021-08-01,Lanzarote,5963
+2021-09-01,Lanzarote,6247
+2021-10-01,Lanzarote,6362
+2021-11-01,Lanzarote,6379
+2021-12-01,Lanzarote,6546
+2022-01-01,Lanzarote,6566
+2022-02-01,Lanzarote,6308
+2022-03-01,Lanzarote,6648
+2022-04-01,Lanzarote,6860
+2022-05-01,Lanzarote,7106
+2022-06-01,Lanzarote,6986
+2022-07-01,Lanzarote,7130
+2022-08-01,Lanzarote,6993
+2022-09-01,Lanzarote,7173
+2022-10-01,Lanzarote,6998
+2022-11-01,Lanzarote,6836
+2022-12-01,Lanzarote,7039
+2023-01-01,Lanzarote,6847
+2023-02-01,Lanzarote,6366
+2023-03-01,Lanzarote,6758
+2023-04-01,Lanzarote,7026
+2023-05-01,Lanzarote,6965
+2023-06-01,Lanzarote,6912
+2023-07-01,Lanzarote,6987
+2023-08-01,Lanzarote,6985
+2023-09-01,Lanzarote,7224
+2023-10-01,Lanzarote,7306
+2023-11-01,Lanzarote,7211
+2023-12-01,Lanzarote,7603
+2024-01-01,Lanzarote,7233
+2024-02-01,Lanzarote,6971
+2024-03-01,Lanzarote,7464
+2024-04-01,Lanzarote,7835
+2024-05-01,Lanzarote,7620
+2024-06-01,Lanzarote,7669
+2024-07-01,Lanzarote,7760
+2024-08-01,Lanzarote,7764
+2024-09-01,Lanzarote,8000
+2024-10-01,Lanzarote,8016
+2024-11-01,Lanzarote,7931
+2024-12-01,Lanzarote,8209
+2025-01-01,Lanzarote,7806
+2025-02-01,Lanzarote,7290
+2025-03-01,Lanzarote,7792
+2025-04-01,Lanzarote,8097
+2025-05-01,Lanzarote,7925
+2025-06-01,Lanzarote,7757
+2025-07-01,Lanzarote,7809
+2025-08-01,Lanzarote,7781
+2025-09-01,Lanzarote,7941
+2025-10-01,Lanzarote,7578
+2025-11-01,Lanzarote,7154
+2025-12-01,Lanzarote,7313
+2026-01-01,Lanzarote,6990
+2026-02-01,Lanzarote,6717
+2026-03-01,Lanzarote,6990
+2026-04-01,Lanzarote,6908
+2026-05-01,Lanzarote,7160
+2026-06-01,Lanzarote,7254
+2026-07-01,Lanzarote,7247
+2026-08-01,Lanzarote,7723
+2026-09-01,Lanzarote,7785
+2019-01-01,Tenerife,14882
+2019-02-01,Tenerife,13959
+2019-03-01,Tenerife,14543
+2019-04-01,Tenerife,14811
+2019-05-01,Tenerife,13644
+2019-06-01,Tenerife,12591
+2019-07-01,Tenerife,14203
+2019-08-01,Tenerife,15080
+2019-09-01,Tenerife,15584
+2019-10-01,Tenerife,15164
+2019-11-01,Tenerife,14659
+2019-12-01,Tenerife,15825
+2020-01-01,Tenerife,15649
+2020-02-01,Tenerife,14860
+2020-03-01,Tenerife,14580
+2020-04-01,Tenerife,12781
+2020-05-01,Tenerife,9076
+2020-06-01,Tenerife,8128
+2020-07-01,Tenerife,10250
+2020-08-01,Tenerife,11171
+2020-09-01,Tenerife,10877
+2020-10-01,Tenerife,10936
+2020-11-01,Tenerife,10728
+2020-12-01,Tenerife,11193
+2021-01-01,Tenerife,10923
+2021-02-01,Tenerife,9743
+2021-03-01,Tenerife,9996
+2021-04-01,Tenerife,10327
+2021-05-01,Tenerife,10679
+2021-06-01,Tenerife,10400
+2021-07-01,Tenerife,11405
+2021-08-01,Tenerife,12196
+2021-09-01,Tenerife,12675
+2021-10-01,Tenerife,12737
+2021-11-01,Tenerife,13496
+2021-12-01,Tenerife,14551
+2022-01-01,Tenerife,14654
+2022-02-01,Tenerife,13720
+2022-03-01,Tenerife,14673
+2022-04-01,Tenerife,15359
+2022-05-01,Tenerife,15204
+2022-06-01,Tenerife,14390
+2022-07-01,Tenerife,15713
+2022-08-01,Tenerife,15989
+2022-09-01,Tenerife,16119
+2022-10-01,Tenerife,15598
+2022-11-01,Tenerife,15217
+2022-12-01,Tenerife,16133
+2023-01-01,Tenerife,15499
+2023-02-01,Tenerife,14243
+2023-03-01,Tenerife,15611
+2023-04-01,Tenerife,16607
+2023-05-01,Tenerife,16331
+2023-06-01,Tenerife,15918
+2023-07-01,Tenerife,16215
+2023-08-01,Tenerife,16574
+2023-09-01,Tenerife,16935
+2023-10-01,Tenerife,17194
+2023-11-01,Tenerife,16933
+2023-12-01,Tenerife,18133
+2024-01-01,Tenerife,17027
+2024-02-01,Tenerife,16486
+2024-03-01,Tenerife,18301
+2024-04-01,Tenerife,19019
+2024-05-01,Tenerife,18140
+2024-06-01,Tenerife,18380
+2024-07-01,Tenerife,18632
+2024-08-01,Tenerife,18991
+2024-09-01,Tenerife,19536
+2024-10-01,Tenerife,19754
+2024-11-01,Tenerife,19669
+2024-12-01,Tenerife,20877
+2025-01-01,Tenerife,19647
+2025-02-01,Tenerife,18310
+2025-03-01,Tenerife,19822
+2025-04-01,Tenerife,20396
+2025-05-01,Tenerife,19286
+2025-06-01,Tenerife,18502
+2025-07-01,Tenerife,19038
+2025-08-01,Tenerife,19422
+2025-09-01,Tenerife,19552
+2025-10-01,Tenerife,18962
+2025-11-01,Tenerife,18756
+2025-12-01,Tenerife,19392
+2026-01-01,Tenerife,18653
+2026-02-01,Tenerife,17641
+2026-03-01,Tenerife,17712
+2026-04-01,Tenerife,17201
+2026-05-01,Tenerife,17576
+2026-06-01,Tenerife,17095
+2026-07-01,Tenerife,17355
+2026-08-01,Tenerife,19100
+2026-09-01,Tenerife,19148
